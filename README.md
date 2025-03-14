@@ -37,8 +37,8 @@
 ---
 
 ### 📫 Contacto:
-📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
-🔗 LinkedIn: [Tu perfil](https://www.linkedin.com/in/tu-perfil/)  
+📧 Email: [kevinrodriguez019@hotmail.com](mailto:tuemail@example.com)  
+
 
 ---
 
