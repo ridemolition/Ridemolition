@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  🎓 Estudiante de Análisis y Desarrollo de Software en el SENA  
+  🎓 Tecnologo en Análisis y Desarrollo de Software Egresado del SENA
+      Tecnico en sistema Egresado del SENA 
   🚀 Apasionado por la tecnología, el desarrollo web y la automatización  
   💡 Siempre aprendiendo nuevas tecnologías  
 </p>
